@@ -1,0 +1,18 @@
+**/target
+**/cache
+**/build
+**/dist
+**/coverage
+**/bootstrap
+**/.DS_Store
+
+**/Logs
+**/logs
+**/*.log
+
+# Editor directories and files
+**/.vscode/*
+**/!.vscode/extensions.json
+.idea
+
+**/.aws-sam
